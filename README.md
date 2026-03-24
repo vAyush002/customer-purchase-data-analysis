@@ -22,7 +22,7 @@ Data import
 Exploratory data analysis (EDA)
 Data cleaning and preprocessing
 Connection to SQL database
-3. Load Data from Python Notebook into SQL (MySQL / PostgreSQL / MS SQL Server)
+3. Load Data from Python Notebook into SQL (MySQL)
 Create a new database in your SQL environment
 Execute Python scripts to load data into the SQL database
 Open and review customer_behavior_sql_queries.sql
